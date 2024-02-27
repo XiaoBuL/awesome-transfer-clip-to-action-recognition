@@ -68,35 +68,35 @@ A curated list of vision-language model based video action recognition resources
 
 ## Adaption From Image-Language Model To Video Model
 ### Pure Adapter-Based
-- [AIM: Adapting Image Models for Efficient Video Action Recognition](http://arxiv.org/abs/2302.03024)
+- [AIM: Adapting Image Models for Efficient Video Action Recognition](http://arxiv.org/abs/2302.03024) [[code]([https://github.com/openai/CLIP](https://github.com/taoyang1122/adapt-image-models))]
 - [Align before Adapt: Leveraging Entity-to-Region Alignments for Generalizable Video Action Recognition](http://arxiv.org/abs/2311.15619)
-- [Disentangling Spatial and Temporal Learning for Efficient Image-to-Video Transfer Learning](http://arxiv.org/abs/2309.07911)
-- [Dual-path Adaptation from Image to Video Transformers](http://arxiv.org/abs/2303.09857)
-- [Frozen CLIP Models are Efficient Video Learners](http://arxiv.org/abs/2208.03550)
-- [Mug-STAN: Adapting Image-Language Pretrained Models for General Video Understanding](http://arxiv.org/abs/2311.15075)
-- [Side4Video: Spatial-Temporal Side Network for Memory-Efficient Image-to-Video Transfer Learning](http://arxiv.org/abs/2311.15769)
-- [ST-Adapter: Parameter-Efficient Image-to-Video Transfer Learning](http://arxiv.org/abs/2206.13559)
-- [Video Action Recognition with Attentive Semantic Units](https://arxiv.org/abs/2303.09756)
-- [What Can Simple Arithmetic Operations Do for Temporal Modeling?](http://arxiv.org/abs/2307.08908)
+- [Disentangling Spatial and Temporal Learning for Efficient Image-to-Video Transfer Learning](http://arxiv.org/abs/2309.07911) [[code](https://github.com/alibaba-mmai-research/DiST)]
+- [Dual-path Adaptation from Image to Video Transformers](http://arxiv.org/abs/2303.09857) [[code](https://github.com/park-jungin/DualPath)]
+- [Frozen CLIP Models are Efficient Video Learners](http://arxiv.org/abs/2208.03550) [[code](https://github.com/OpenGVLab/efficient-video-recognition)]
+- [Mug-STAN: Adapting Image-Language Pretrained Models for General Video Understanding](http://arxiv.org/abs/2311.15075) [[code](https://github.com/farewellthree/STAN)]
+- [Side4Video: Spatial-Temporal Side Network for Memory-Efficient Image-to-Video Transfer Learning](http://arxiv.org/abs/2311.15769) [[code](https://github.com/HJYao00/Side4Video?tab=readme-ov-file)]
+- [ST-Adapter: Parameter-Efficient Image-to-Video Transfer Learning](http://arxiv.org/abs/2206.13559) [[code](https://github.com/linziyi96/st-adapter)]
+- [Video Action Recognition with Attentive Semantic Units](https://arxiv.org/abs/2303.09756) 
+- [What Can Simple Arithmetic Operations Do for Temporal Modeling?](http://arxiv.org/abs/2307.08908) [[code](https://github.com/whwu95/ATM)]
 ### Pure Prompt-Based
-- [Prompting Visual-Language Models for Efficient Video Understanding](http://arxiv.org/abs/2112.04478)
-- [Vita-CLIP: Video and text adaptive CLIP via Multimodal Prompting](http://arxiv.org/abs/2304.03307)
-- [Fine-tuned CLIP Models are Efficient Video Learners](http://arxiv.org/abs/2212.03640)
+- [Prompting Visual-Language Models for Efficient Video Understanding](http://arxiv.org/abs/2112.04478) [[code](https://github.com/ju-chen/Efficient-Prompt/)]
+- [Vita-CLIP: Video and text adaptive CLIP via Multimodal Prompting](http://arxiv.org/abs/2304.03307) [[code](https://github.com/talalwasim/vita-clip)]
+- [Fine-tuned CLIP Models are Efficient Video Learners](http://arxiv.org/abs/2212.03640) [[code](https://github.com/muzairkhattak/ViFi-CLIP)]
 ### Mixture Of Adapter And Prompt
-- [ActionCLIP: A New Paradigm for Video Action Recognition](http://arxiv.org/abs/2109.08472)
-- [Expanding Language-Image Pretrained Models for General Video Recognition](http://arxiv.org/abs/2208.02816)
-- [Implicit Temporal Modeling with Learnable Alignment for Video Recognition](http://arxiv.org/abs/2304.10465)
+- [ActionCLIP: A New Paradigm for Video Action Recognition](http://arxiv.org/abs/2109.08472) [[code](https://github.com/sallymmx/ActionCLIP)]
+- [Expanding Language-Image Pretrained Models for General Video Recognition](http://arxiv.org/abs/2208.02816) [[code](https://github.com/microsoft/VideoX/tree/master/X-CLIP)]
+- [Implicit Temporal Modeling with Learnable Alignment for Video Recognition](http://arxiv.org/abs/2304.10465) [[code](https://github.com/Francis-Rings/ILA)]
 - [Seeing in Flowing: Adapting CLIP for Action Recognition with Motion Prompts Learning](http://arxiv.org/abs/2308.04828)
 ### Full-Finetuning-Based
-- [Bidirectional Cross-Modal Knowledge Exploration for Video Recognition with Pre-trained Vision-Language Models](http://arxiv.org/abs/2301.00182)
-- [Fine-tuned CLIP Models are Efficient Video Learners](http://arxiv.org/abs/2212.03640)
-- [Revisiting Classifier: Transferring Vision-Language Models for Video Recognition](http://arxiv.org/abs/2207.01297)
+- [Bidirectional Cross-Modal Knowledge Exploration for Video Recognition with Pre-trained Vision-Language Models](http://arxiv.org/abs/2301.00182) [[code](https://github.com/whwu95/BIKE)]
+- [Fine-tuned CLIP Models are Efficient Video Learners](http://arxiv.org/abs/2212.03640) [[code](https://github.com/muzairkhattak/ViFi-CLIP)]
+- [Revisiting Classifier: Transferring Vision-Language Models for Video Recognition](http://arxiv.org/abs/2207.01297) [[code](https://github.com/whwu95/Text4Vis)]
   
 ## VLM-Based Few-Shot Video Action Recognition
-- [CLIP-guided Prototype Modulating for Few-shot Action Recognition](http://arxiv.org/abs/2303.02982)
+- [CLIP-guided Prototype Modulating for Few-shot Action Recognition](http://arxiv.org/abs/2303.02982) [[code](https://github.com/alibaba-mmai-research/clip-fsar)]
 - [D2ST-Adapter: Disentangled-and-Deformable Spatio-Temporal Adapter for Few-shot Action Recognition](http://arxiv.org/abs/2312.01431)
-- [Few-shot Action Recognition with Captioning Foundation Models](http://arxiv.org/abs/2310.10125)
-- [GraphAdapter: Tuning Vision-Language Models With Dual Knowledge Graph](http://arxiv.org/abs/2309.13625)
+- [Few-shot Action Recognition with Captioning Foundation Models](http://arxiv.org/abs/2310.10125) 
+- [GraphAdapter: Tuning Vision-Language Models With Dual Knowledge Graph](http://arxiv.org/abs/2309.13625) [[code](https://github.com/lixinustc/GraphAdapter)]
 - [Knowledge Prompting for Few-shot Action Recognition](http://arxiv.org/abs/2211.12030)
 - [Multimodal Adaptation of CLIP for Few-Shot Action Recognition](http://arxiv.org/abs/2308.01532)
 
