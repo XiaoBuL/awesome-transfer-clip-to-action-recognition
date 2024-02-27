@@ -46,8 +46,16 @@ A curated list of vision-language model based video action recognition resources
 * [MEVA (Multiview Extended Video with Activities) Dataset](http://mevadata.org)
 
 ## SOTA Result On Different Datasets And Task Settings 
+🔨TODO: Collect SOTA result and merge into one table
 
 ## Related Survey
+- [Vision-Language Pre-training: Basics, Recent Advances, and Future Trends](http://arxiv.org/abs/2210.09263)
+- [Vision-Language Models for Vision Tasks: A Survey](http://arxiv.org/abs/2304.00685)
+- [Vision Transformers for Action Recognition: A Survey](http://arxiv.org/abs/2209.05700))
+- [Human Action Recognition and Prediction: A Survey](http://arxiv.org/abs/1806.11230)
+- [Deep Video Understanding with Video-Language Model](https://dl.acm.org/doi/10.1145/3581783.3612863)
+- [Benchmarking Robustness of Adaptation Methods on Pre-trained Vision-Language Models](http://arxiv.org/abs/2306.02080)
+- [A Comprehensive Study of Deep Video Action Recognition](https://arxiv.org/abs/2012.06567)
 
 ## Pretrained Vision-Language Model
 ### Image-Language Model
