@@ -68,13 +68,39 @@ A curated list of vision-language model based video action recognition resources
 
 ## Adaption From Image-Language Model To Video Model
 ### Pure Adapter-Based
+- [AIM: Adapting Image Models for Efficient Video Action Recognition](http://arxiv.org/abs/2302.03024)
+- [Align before Adapt: Leveraging Entity-to-Region Alignments for Generalizable Video Action Recognition](http://arxiv.org/abs/2311.15619)
+- [Disentangling Spatial and Temporal Learning for Efficient Image-to-Video Transfer Learning](http://arxiv.org/abs/2309.07911)
+- [Dual-path Adaptation from Image to Video Transformers](http://arxiv.org/abs/2303.09857)
+- [Frozen CLIP Models are Efficient Video Learners](http://arxiv.org/abs/2208.03550)
+- [Mug-STAN: Adapting Image-Language Pretrained Models for General Video Understanding](http://arxiv.org/abs/2311.15075)
+- [Side4Video: Spatial-Temporal Side Network for Memory-Efficient Image-to-Video Transfer Learning](http://arxiv.org/abs/2311.15769)
+- [ST-Adapter: Parameter-Efficient Image-to-Video Transfer Learning](http://arxiv.org/abs/2206.13559)
+- [Video Action Recognition with Attentive Semantic Units](https://arxiv.org/abs/2303.09756)
+- [What Can Simple Arithmetic Operations Do for Temporal Modeling?](http://arxiv.org/abs/2307.08908)
 ### Pure Prompt-Based
+- [Prompting Visual-Language Models for Efficient Video Understanding](http://arxiv.org/abs/2112.04478)
+- [Vita-CLIP: Video and text adaptive CLIP via Multimodal Prompting](http://arxiv.org/abs/2304.03307)
+- [Fine-tuned CLIP Models are Efficient Video Learners](http://arxiv.org/abs/2212.03640)
 ### Mixture Of Adapter And Prompt
+- [ActionCLIP: A New Paradigm for Video Action Recognition](http://arxiv.org/abs/2109.08472)
+- [Expanding Language-Image Pretrained Models for General Video Recognition](http://arxiv.org/abs/2208.02816)
+- [Implicit Temporal Modeling with Learnable Alignment for Video Recognition](http://arxiv.org/abs/2304.10465)
+- [Seeing in Flowing: Adapting CLIP for Action Recognition with Motion Prompts Learning](http://arxiv.org/abs/2308.04828)
 ### Full-Finetuning-Based
-
+- [Bidirectional Cross-Modal Knowledge Exploration for Video Recognition with Pre-trained Vision-Language Models](http://arxiv.org/abs/2301.00182)
+- [Fine-tuned CLIP Models are Efficient Video Learners](http://arxiv.org/abs/2212.03640)
+- [Revisiting Classifier: Transferring Vision-Language Models for Video Recognition](http://arxiv.org/abs/2207.01297)
+  
 ## VLM-Based Few-Shot Video Action Recognition
+- [CLIP-guided Prototype Modulating for Few-shot Action Recognition](http://arxiv.org/abs/2303.02982)
+- [D2ST-Adapter: Disentangled-and-Deformable Spatio-Temporal Adapter for Few-shot Action Recognition](http://arxiv.org/abs/2312.01431)
+- [Few-shot Action Recognition with Captioning Foundation Models](http://arxiv.org/abs/2310.10125)
+- [GraphAdapter: Tuning Vision-Language Models With Dual Knowledge Graph](http://arxiv.org/abs/2309.13625)
+- [Knowledge Prompting for Few-shot Action Recognition](http://arxiv.org/abs/2211.12030)
+- [Multimodal Adaptation of CLIP for Few-Shot Action Recognition](http://arxiv.org/abs/2308.01532)
 
-#### Useful Code Repos on Video Representation Learning
+## Useful Code Repos on Video Representation Learning
 * [[3D ResNet PyTorch]](https://github.com/kenshohara/3D-ResNets-PyTorch)
 * [[PyTorch Video Research]](https://github.com/gsig/PyVideoResearch)
 * [[M-PACT: Michigan Platform for Activity Classification in Tensorflow]](https://github.com/MichiganCOG/M-PACT)
@@ -90,7 +116,7 @@ A curated list of vision-language model based video action recognition resources
 * [[NVIDIA-DALI, video loading pipelines]](https://docs.nvidia.com/deeplearning/dali/user-guide/docs/examples/sequence_processing/video/video_reader_label_example.html)
 * [[NVIDIA optical-flow SDK]](https://developer.nvidia.com/opticalflow-sdk)
 
-### Miscellaneous
+## Miscellaneous
 * [What and How Well You Performed? A Multitask Learning Approach to Action Quality Assessment](https://arxiv.org/pdf/1904.04346.pdf) - P. Parma and B. T. Morris. CVPR2019.
 * [PathTrack: Fast Trajectory Annotation with Path Supervision](http://openaccess.thecvf.com/content_ICCV_2017/papers/Manen_PathTrack_Fast_Trajectory_ICCV_2017_paper.pdf) - S. Manen et al., ICCV2017.
 * [CortexNet: a Generic Network Family for Robust Visual Temporal Representations](https://arxiv.org/pdf/1706.02735.pdf) A. Canziani and E. Culurciello - arXiv2017. [[code]](https://github.com/atcold/pytorch-CortexNet) [[project web]](https://engineering.purdue.edu/elab/CortexNet/)
