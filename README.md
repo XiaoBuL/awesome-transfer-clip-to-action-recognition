@@ -51,7 +51,7 @@ A curated list of vision-language model based video action recognition resources
 ## Related Survey
 - [Vision-Language Pre-training: Basics, Recent Advances, and Future Trends](http://arxiv.org/abs/2210.09263)
 - [Vision-Language Models for Vision Tasks: A Survey](http://arxiv.org/abs/2304.00685)
-- [Vision Transformers for Action Recognition: A Survey](http://arxiv.org/abs/2209.05700))
+- [Vision Transformers for Action Recognition: A Survey](http://arxiv.org/abs/2209.05700)
 - [Human Action Recognition and Prediction: A Survey](http://arxiv.org/abs/1806.11230)
 - [Deep Video Understanding with Video-Language Model](https://dl.acm.org/doi/10.1145/3581783.3612863)
 - [Benchmarking Robustness of Adaptation Methods on Pre-trained Vision-Language Models](http://arxiv.org/abs/2306.02080)
@@ -59,7 +59,12 @@ A curated list of vision-language model based video action recognition resources
 
 ## Pretrained Vision-Language Model
 ### Image-Language Model
+- [CLIP] [Learning Transferable Visual Models From Natural Language Supervision](https://proceedings.mlr.press/v139/radford21a.html) [[code](https://github.com/openai/CLIP)]
+- [ALIGN] [Scaling Up Visual and Vision-Language Representation Learning With Noisy Text Supervision](https://arxiv.org/abs/2102.05918)
+- [Florence] [Florence: A New Foundation Model for Computer Vision](https://arxiv.org/abs/2111.11432)
+- [UniCL] [Unified Contrastive Learning in Image-Text-Label Space](https://arxiv.org/abs/2204.03610) [[code](https://github.com/microsoft/UniCL)]
 ### Video-Language Model
+🔨TODO: collect video-language pre-trained model and attach links here
 
 ## Adaption From Image-Language Model To Video Model
 ### Pure Adapter-Based
