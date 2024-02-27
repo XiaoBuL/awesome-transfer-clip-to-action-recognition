@@ -8,7 +8,6 @@ A curated list of vision-language model based video action recognition resources
  - [Pretrained Vision-Language Model](#Pretrained-Vision-Language-Model)
  - [Adaption From Image-Language Model To Video Model](#Adaption-From-Image-Language-Model-To-Video-Model)
  - [VLM-Based Few-Shot Video Action Recognition](#VLM-Based-Few-Shot-Video-Action-Recognition)
- - 
 
 ## Dataset for VLM pretraining and video action recognition
 * [Video Dataset Overview from Antoine Miech](https://www.di.ens.fr/~miech/datasetviz/)
