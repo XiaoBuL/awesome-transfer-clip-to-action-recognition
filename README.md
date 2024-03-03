@@ -44,6 +44,7 @@ A curated list of vision-language model based video action recognition resources
 * [Northwestern-UCLA Dataset](https://users.eecs.northwestern.edu/~jwa368/my_data.html)
 * [SYSU 3D Human-Object Interaction Dataset](http://www.isee-ai.cn/~hujianfang/ProjectJOULE.html)
 * [MEVA (Multiview Extended Video with Activities) Dataset](http://mevadata.org)
+* [Panda-70](https://github.com/snap-research/Panda-70M)
 
 ## SOTA Result On Different Datasets And Task Settings 
 🔨TODO: Collect SOTA result and merge into one table
